@@ -28,9 +28,9 @@ export default function Header() {
             <a className="hover:underline">About</a>
           </Link>
         </h4>
-        <h4 className="mr-5">
+        {/* <h4 className="mr-5">
           <a className="hover:underline">Projects</a>
-        </h4>
+        </h4> */}
         <h4 className="mr-5">
           <Link href="/contact">
             <a className="hover:underline">Contact</a>
