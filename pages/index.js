@@ -10,14 +10,14 @@ export default function Home() {
               <h2 className="text-3xl md:text-home-callout font-display leading-snug md:leading-none uppercase">
                 Indepedent
               </h2>
-              <h2 className="text-3xl md:text-home-callout font-display leading-snug md:leading-none uppercase -translate-x-24">
+              <h2 className="text-3xl md:text-home-callout font-display leading-snug md:leading-none uppercase md:-translate-x-24">
                 Front-end
               </h2>
               <h2 className="text-3xl md:text-home-callout font-display leading-snug md:leading-none uppercase">
                 Web Developer
               </h2>
             </div>
-            <h4 className="text-base font-body text-right translate-x-12">
+            <h4 className="text-base font-body text-right md:translate-x-12">
               <span className="tracking-snug font-light">Welcome to </span>{' '}
               <i className="font-handwritten text-2xl">my</i>{' '}
               <span className="line-through decoration-2 decoration-red-600">
