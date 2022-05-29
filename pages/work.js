@@ -6,12 +6,12 @@ export default function AboutStack() {
       <div className="flex flex-col md:ml-12 border-l">
         <div className="pl-4 md:pl-20 pt-4 md:pt-16 pb-2 md:pb-10">
           <p className="font-body font-light md:w-2/5 text-sm leading-snug mb-28">
-            I like to think of myself as the architect, a web space architect. One who
-            is able to translate thoughts and ideas to realistic, functionally
-            sound and aesthetically pleasing web assets. Some of the
-            technologies in my toolset used to undertake such projects include but
-            are not limited to, Javascript, React, Typescript, Nextjs, Git, Wordpress, Figma. For any project
-            I'm involved in, I guarantee 3 things:
+            I like to think of myself as the architect, a web space architect.
+            I translate thoughts and ideas to realistic,
+            functionally sound and aesthetically pleasing web assets. Some of
+            the technologies I use include but are not limited to, Javascript, React, Typescript,
+            Nextjs, Git, Wordpress, Figma. For any project I'm involved in, I
+            guarantee 3 things:
           </p>
 
           <div className="flex flex-col md:flex-row items-center md:justify-between w-4/5">
