@@ -11,7 +11,7 @@ export default function Home() {
                 Indepedent
               </h2>
               <h2 className="text-3xl md:text-home-callout font-display leading-snug md:leading-none uppercase -translate-x-24">
-                Back-end
+                Front-end
               </h2>
               <h2 className="text-3xl md:text-home-callout font-display leading-snug md:leading-none uppercase">
                 Web Developer
