@@ -6,8 +6,7 @@ export default function AboutStack() {
       <div className="flex flex-col md:ml-12 border-l">
         <div className="pl-4 md:pl-20 pt-4 md:pt-16 pb-2 md:pb-10">
           <p className="font-body font-light md:w-2/5 text-sm leading-snug mb-28">
-            I like to think of myself as the architect, not in the literal sense
-            of a construction professional but as a digital architect. One who
+            I like to think of myself as the architect, a web space architect. One who
             is able to translate thoughts and ideas to realistic, functionally
             sound and aesthetically pleasing web assets. Some of the
             technologies in my toolset used to undertake such projects include but
